@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  border: 0;
+  font-family: Microsoft YaHei;
+}
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+.line {
+  width: 100%;
+  height: 2px;
+  background-color: transparent;
+}
+.btn-route {
+  display: block;
+  width: 220px;
+  background-color: #fdd900;
+  color: #2b2e33;
+  font-size: 26px;
+  line-height: 60px;
+  text-align: center;
+}
+.click-bar {
+  cursor: pointer;
+  user-select: none;
+}
+.txt-al-r {
+  text-align: right;
+}
+.mg-l-15 {
+  margin-left: 15px;
+}
